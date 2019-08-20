@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name = Screen-12
+GenericName = Touchscreen 12/254
+Comment = Dim 12 / 255
+Keywords = Touchscreen;Dim;Brightness;
+TryExec = su-to-root
+Exec = su-to-root -X -c 'echo "12" > /sys/class/backlight/rpi_backlight/brightness'
+StartupNotify = false
+Terminal = false
+Type = Application
+Icon = /usr/share/icons/Lightbulbs/bulb10-256x256.png
+Categories = Settings;
+NoDisplay = false
