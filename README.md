@@ -8,7 +8,7 @@ Here's my favorite solution, to date:
 1.  Drop the Lightbulbs folder into /usr/share/icons.
 2.  Drop the .desktop files into /usr/share/applications.
 3.  Five brightness options will appear on the Settings menu.
-4.  Optionally, drop a couple of the .desktop files onto the Desktop for instant access (/home/<user>/Desktop).
+4.  Optionally, drop a couple of the .desktop files onto the Desktop for instant access (/home/<<user>>/Desktop).
 
 RPi Touch Display definitive reference, & banter here:
   https://www.raspberrypi.org/forums/index.php?sid=4c45c65f495908e01d4b64f8b264d27f
